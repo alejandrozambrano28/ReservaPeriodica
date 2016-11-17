@@ -1,7 +1,7 @@
 import Reflux from 'reflux';
 
 let ReservaAction = Reflux.createActions([
-	'crearReservaP'
+	'crearReservaP',
 	'enviarDatos'
 ]);
 
